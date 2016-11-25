@@ -69,6 +69,8 @@ class Generator {
             {
                 continue;
             } else {
+                console.log('Dublicate findinded. Start to generate a new key.');
+
                 result = true;
             }
         }
