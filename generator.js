@@ -78,7 +78,11 @@ class Generator {
 
     randomize()
     {
-        let possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+        // Full possible list
+        // let possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+        // Short List.
+        let possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
         return possible.charAt(Math.floor(Math.random() * possible.length));
     }
