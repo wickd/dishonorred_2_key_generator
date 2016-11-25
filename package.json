@@ -1,0 +1,21 @@
+{
+  "name": "generatekey",
+  "version": "1.0.0",
+  "description": "Generates keys for Dishonorred 2",
+  "main": "get_dishonorred_2.js",
+  "dependencies": {
+    "jsonfile": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "get_dishonorred"
+  },
+  "keywords": [
+    "dishonorred-2",
+    "keys",
+    "generator",
+    "nodejs"
+  ],
+  "author": "wickd",
+  "license": "ISC"
+}
