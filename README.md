@@ -1,7 +1,7 @@
 # random_key_generator
 Generate fake keys. Test your lucky :D
 
-Required NodeJS version 6.9.1 or bigger. Download and install it from [Download](https://nodejs.org/dist/v7.2.0/node-v7.2.0-x64.msi);
+Required NodeJS version 6.9.1 or bigger. Download it from [here](https://nodejs.org/dist/v7.2.0/node-v7.2.0-x64.msi) and install it;
 
 Run the file ```get_dishonorred_2.js``` with one number argument which will be used as count keys and test your luck :D.
 
