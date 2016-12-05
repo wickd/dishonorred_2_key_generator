@@ -22,7 +22,7 @@ class Generator {
             console.log(`${i}: ${this.keys[i]}`);
         }
 
-        console.log('----- Fck the system, get Dishonorred 2 FREE -----');
+        console.log('----- Your Keys -----');
     }
 
     generate()
