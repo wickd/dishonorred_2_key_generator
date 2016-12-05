@@ -22,6 +22,6 @@ Result example
 8: RVKUQ-ZCYVE-OWLKH
 9: J1VXJ-FTEGJ-VRFSS
 10: DY5OG-M1HUY-QTEEI
------ Fck the system, get Dishonorred 2 FREE -----
+----- Your keys -----
 
 ```
